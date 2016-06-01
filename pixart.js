@@ -1,1 +1,3 @@
+$(document).on("ready", function(){
 
+})
